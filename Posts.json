@@ -1,0 +1,27 @@
+{
+    "no":{"no":4},
+    
+    "posts":[
+        {"url":"https://www.youtube.com/embed/DWNN5HCaRFQ",
+        "about":"<span class='Heading'>Musical Planet</span><br>What if sebastien lagues' tutorial on procedural planet generation <br> combine with music visualisation.<br>Thats what popped into my mind during a shower. The results were astonishing.<br>LINKS<br> <a href='https://github.com/Bharath33-Krishnan/Procedural-music-Visualisation' target='_blank'>Git-Repo</a><br><a href='https://www.youtube.com/watch?v=QN39W020LqU&list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8' target='_blank'>Planet Generation Tutorial</a>",
+        "iframe":true},
+
+        {"url":"Assets/Duel.png",
+        "about":"<span class='Heading'>Duel</span><br>When you are bored you just want to participate in a game jam.<br>Sometimes you might not complete your game on time.<br> But that doesnt mean you have to give up on it.<br> Develop them further as your ideas are really that precious.<br><br>Duel was meant to be submission for Weekly Game Jam 266 but then it developed into a full blown project. With the encouragement of my brother, I finally released it on itch.<br>LINKS<br> <a href='https://bharathk33.itch.io/duel' target='_blank'>Duel-Itch.io</a>",
+        "iframe":false},
+
+        {"url":"Assets/DisarmIt.png",
+        "about":"<span class='Heading'>Disarm It</span><br>GMTK Jam 2020.<br> I was finally ready for the challenge.<br>The Theme...OUT OF CONTROL.<br>Firstly an Idea was required.<br>After two hours of brainstorming with my partner in crime(Brother) we finalised an Idea,<br>Then started the journey.<br> Coding Two days straight implementing a procedural map, Pillars, Timers and stuff.<br>From Audio to Story, It was a wild ride.<br>LINKS<br> <a href='https://bharathk33.itch.io/disarm-it' target='_blank'>Disarm It-Itch.io</a>",
+        "iframe":false},
+
+        {"url":"Assets/FLappyBird.png",
+        "about":"<span class='Heading'>Flappy Bird</span><br>IT Workshop 1 was an excuse for me<br>to get out of comfort zone and create a game using barebones JS, HTML and CSS.<br>What better way to do it, than to create a flappy bird clone.<br>Finding a coordinate system  within css and collisions posed a threat but bounding boxes<br>and absolute position became the saviours. It was a really fun Time<br>LINKS<br> <a href='https://github.com/Bharath33-Krishnan/Flappy_Bird' target='_blank'>Flappy Bird-Repository</a><br><a href='https://bharath33-krishnan.github.io/Flappy_Bird/' target='_blank'>Flappy Bird-Game</a>",
+        "iframe":false}
+
+
+   
+
+
+
+    ]
+}

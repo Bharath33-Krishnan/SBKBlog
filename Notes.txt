@@ -1,0 +1,17 @@
+<span class="Heading">Passion & Interest</span>
+                    <span class="Content">
+                        From my childhood itself I have been fascinated by video games.<br>
+                        I like all things gaming and am very passionate about game development.<br>
+                        Its my dream to uplift the gaming industry in India.<br>
+                        I work mostly on Unity Engine and have a special intrest towards shader development.<br>
+                        My Other Interests are cricket, geometry, chess and anime.
+                    </span>
+
+
+
+
+
+
+
+
+ <a href="https://github.com/Bharath33-Krishnan/Procedural-music-Visualisation" target="_blank">Git-Repo</a>
