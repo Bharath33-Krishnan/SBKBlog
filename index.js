@@ -50,7 +50,7 @@ function GeneratePosts()
 function GetJSONGen(){
     let x="";
     const container=document.getElementById("Posts");
-    fetch('./posts.json')
+    fetch('https://bharath33-krishnan.github.io/SBKBlog/Posts.json')
     .then((response) => response.json())
     .then((json) =>{
         for (let i = 0; i < json.no.no; i++) {
