@@ -247,11 +247,10 @@ footer{
     position: sticky;
     left: 0;
     bottom: 0;
-    width: 100vw;
+    width: 100%;
     padding: 10px;
     border-top-left-radius : 5px;
     border-top-right-radius : 5px;
-    height: 4vh;
     background-color: gray;
     color: white;
 }
@@ -379,5 +378,4 @@ footer{
     .AboutProj{
         margin: auto;
     }
-   
 }
